@@ -3,3 +3,4 @@ SIR code in python to model the spread of COVID-19
 
 
 
+https://www.researchgate.net/publication/344117287_COVID-19_pandemics_modeling_with_modified_determinist_SEIR_social_distancing_and_age_stratification_The_effect_of_vertical_confinement_and_release_in_Brazil
